@@ -32,7 +32,17 @@ MyFirstWebDevRepo/
 ---
 Heres a sneak peek:
 
+![Image](https://github.com/user-attachments/assets/8e0ac7c7-66fd-4555-8b61-5380c4424fb8)
 
+![Image](https://github.com/user-attachments/assets/e97a3acc-15e2-46a0-bd3a-832fe9d4a104)
+
+![Image](https://github.com/user-attachments/assets/9fec2010-40cb-4629-89d7-43b9a0ede979)
+
+![Image](https://github.com/user-attachments/assets/6e601ce5-9f8e-4504-99ac-fa3d0611ff33)
+
+![Image](https://github.com/user-attachments/assets/e5d7d822-e98a-44e3-bb55-73a675918a71)
+
+![Image](https://github.com/user-attachments/assets/eff91021-ed42-4b3e-b2ac-ec5c4a3058ea)
 
 ## 🚀 How to Use
 

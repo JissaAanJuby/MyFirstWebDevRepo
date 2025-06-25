@@ -18,12 +18,8 @@ The goal of this project is to:
 
 ```
 MyFirstWebDevRepo/
-├── zomato-button.html
-├── uber-button.html
-├── linkedin-button.html
+├── html files
 ├── style.css
-├── images/
-│   └── (optional logos or icons used in buttons)
 └── README.md
 ```
 
